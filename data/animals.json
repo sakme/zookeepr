@@ -145,6 +145,34 @@
         "anxious"
       ],
       "id": "14"
+    },
+    {
+      "name": "Joey",
+      "species": "Gorilla",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Malcolm",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Betty Ann",
+      "species": "Drabon",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
